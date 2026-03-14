@@ -1,0 +1,15 @@
+# Java build files
+*.class
+
+# Common build folders
+out/
+build/
+bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS files
+.DS_Store
