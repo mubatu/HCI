@@ -23,5 +23,5 @@ This is a very small Java Swing starter project for an object-oriented drawing e
 
 ```bash
 javac src/*.java
-java -cp src DrawingEditor
+java src DrawingEditor
 ```
